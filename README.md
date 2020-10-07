@@ -3,6 +3,7 @@
 <p align="center">
   <img alt="author" src="https://img.shields.io/badge/Author-WesleyRodrigues-blue">
   <img alt="GitHub" src="https://img.shields.io/github/license/wesleywcr/BotTwitter">
+
 </p>
 
 <p align="center"><img src=".github/robof.gif?raw=true"/>
